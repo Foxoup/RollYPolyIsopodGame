@@ -11,6 +11,3 @@ __pycache__/
 
 # Logs
 *.log
-
-# Generated assets
-/Assets/Graphics/
